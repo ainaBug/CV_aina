@@ -4034,6 +4034,7 @@ div.wpcf7-response-output {
 }
 .crt-paper-layers {
     margin-top: 15px;
+	width: 100%;
 }
 .crt-paper-layers:first-child {
     margin-top: 0;
